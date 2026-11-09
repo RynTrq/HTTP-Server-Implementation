@@ -1,5 +1,7 @@
 # TCP HTTP Server
 
+[![Verify](https://github.com/RynTrq/HTTP-Server-Implementation/actions/workflows/verify.yml/badge.svg)](https://github.com/RynTrq/HTTP-Server-Implementation/actions/workflows/verify.yml)
+
 An educational HTTP/1.1 static file server implemented directly with Python sockets.
 
 The project keeps low-level networking visible for learning, while adding practical safeguards and clean structure so it can be developed and tested like a real software artifact.
